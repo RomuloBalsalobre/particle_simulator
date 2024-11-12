@@ -1,0 +1,14 @@
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/particle_simulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/particle_simulator.AssemblyInfoInputs.cache
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/particle_simulator.AssemblyInfo.cs
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/particle_simulator.csproj.CoreCompileInputs.cache
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/bin/Debug/net8.0/particle_simulator
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/bin/Debug/net8.0/particle_simulator.deps.json
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/bin/Debug/net8.0/particle_simulator.runtimeconfig.json
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/bin/Debug/net8.0/particle_simulator.dll
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/bin/Debug/net8.0/particle_simulator.pdb
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/particle_simulator.dll
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/refint/particle_simulator.dll
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/particle_simulator.pdb
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/particle_simulator.genruntimeconfig.cache
+/home/h0m4/Documentos/Repositório/csharp_fundamentals/particle_simulator/obj/Debug/net8.0/ref/particle_simulator.dll
